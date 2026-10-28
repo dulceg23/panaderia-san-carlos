@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# Java
+*.class
+*.log
+
+# NetBeans
+nbproject/private/
+
+# Editores
+.idea/
+.vscode/
+
+# Configuraciones privadas
+.env
+.env.*
+application.properties
+database.properties
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
